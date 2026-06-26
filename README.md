@@ -1,2 +1,0 @@
-# voidAK
-Created with CodeSandbox
